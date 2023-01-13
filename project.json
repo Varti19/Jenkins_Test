@@ -44,7 +44,7 @@
         "editingStatus": "Publishable",
         "testCaseId": "b069974e-1a74-41dc-8949-5ba578877e54",
         "testCaseType": "TestCase",
-        "fileName": "TestCase.xaml"
+        "fileName": "FirstTestCase.xaml"
       }
     ],
     "modernBehavior": false
